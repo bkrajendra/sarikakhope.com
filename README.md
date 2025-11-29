@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal TypeScript Starter
+  Sarika Khopes World!
 </h1>
 
 ## 🚀 Quick start
